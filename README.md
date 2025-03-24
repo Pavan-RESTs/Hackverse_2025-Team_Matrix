@@ -44,4 +44,4 @@ This project integrates AI-powered CCTV surveillance with blockchain-based tampe
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-Linked: https://www.linkedin.com/in/pavan54/
+Linkedin: https://www.linkedin.com/in/pavan54/
