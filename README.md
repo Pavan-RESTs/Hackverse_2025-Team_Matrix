@@ -36,9 +36,9 @@ This project integrates AI-powered CCTV surveillance with blockchain-based tampe
 - *Integration with Law Enforcement Databases*: Enabling seamless data sharing between agencies.
 
 ## Contributors
-- *Sachin* - Blockchain & DevOps Developer
-- *Pavan* - Artificial Intelligence
-- *Divakar* - Web Development
+- *Pavan* - Blockchain & Artificial Intelligence
+- *Sachin* - DevOps Developer
+- *Divakar* - Web Developer
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
